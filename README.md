@@ -1,4 +1,6 @@
-# 16 Week Intense coding to build 32 Incredible projects
+# Full-Stack Engineer Hiring Challenge
+   Let's Get Hired as a Full Stack Engineer
+## 16 Week Intense coding to build 32 Incredible projects
 
 | **No** | **Project Name**        | **Complexity** | **Timeline** | **Current Status** | **Start Date** | **Deadline**  | **Repository Link**  |
 |--------|--------------------------|----------------|--------------|---------------------|----------------|---------------|-----------------------|
